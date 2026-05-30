@@ -1,5 +1,5 @@
 import { Zap } from "lucide-react";
-import { Badge, Button, Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from "../ui/index";
+import { Badge, Card, CardContent } from "../ui/index";
 import { skills } from "../../data/portfolio";
 
 export default function SkillsSection() {

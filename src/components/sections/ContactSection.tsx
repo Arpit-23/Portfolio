@@ -1,5 +1,5 @@
 import { Mail, Phone, Send } from "lucide-react";
-import { Badge, Button, Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from "../ui/index";
+import {  Button, Card, CardContent,  } from "../ui/index";
 import { personalInfo } from "../../data/portfolio";
 
 export default function ContactSection() {

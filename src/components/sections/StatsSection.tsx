@@ -1,5 +1,5 @@
 import { Briefcase, Code, Layers } from "lucide-react";
-import { Badge, Button, Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from "../ui/index";
+import {  Card, CardHeader, CardTitle, CardContent } from "../ui/index";
 import { stats } from "../../data/portfolio";
 
 const iconMap: Record<string, React.ElementType> = {

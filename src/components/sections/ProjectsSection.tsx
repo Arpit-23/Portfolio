@@ -1,5 +1,5 @@
 import { Code, ExternalLink, Github } from "lucide-react";
-import { Badge, Button, Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from "../ui/index";
+import { Badge, Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from "../ui/index";
 import { projects } from "../../data/portfolio";
 
 export default function ProjectsSection() {
